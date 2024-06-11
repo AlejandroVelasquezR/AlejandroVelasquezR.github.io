@@ -81,14 +81,18 @@ skills:
     items:
       - name: Basketball
         description: ''
-        percent: 90
-        icon: basketball
+        percent: 100
+        icon: globe-alt
+      - name: Coding
+        description: ''
+        percent: 70
+        icon: code-bracket
 
 languages:
   - name: Spanish
     percent: 100
   - name: English
-    percent: 75
+    percent: 70
 
 
 # Awards.
