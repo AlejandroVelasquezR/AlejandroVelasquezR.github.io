@@ -8,5 +8,5 @@ main:
     url: /
     weight: 10
   - name: Papers
-    url: /#Publications
+    url: /publicaton/#conference-paper
     weight: 11
