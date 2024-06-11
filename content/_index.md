@@ -40,7 +40,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - publication/conference-paper
         exclude_featured: false
     design:
       view: citation

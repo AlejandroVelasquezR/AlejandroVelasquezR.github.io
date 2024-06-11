@@ -5,8 +5,8 @@
 
 main:
   - name: Bio
-    url: /#authors
+    url: /authors
     weight: 10
   - name: Papers
-    url: /#publication
+    url: /publication
     weight: 11
